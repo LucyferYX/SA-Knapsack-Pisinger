@@ -1,0 +1,17 @@
+Sākotnējais uzdevums:
+- Izvēlieties uzdevumu, optimizācijas algoritmu (SA, TS, LA, utml. …) un problēmu, kas tiks risināta.​
+    !! Neizmantojiet gatavas optimizācijas algoritmu implementācijas !!​
+- Sagatavojiet vairākus dažāda izmēra problēmu testa piemērus un veiciet testēšanu, piefiksējot izpildes laiku 
+  un risinājuma kvalitāti, salīdzinot ar optimālo vai labāko zināmo risinājumu.​.​
+- Īsi (2-3 lpp.) aprakstiet padarīto uz PDF faila, kas satur: ​
+    1. Uzdevuma formulējumu;​
+    2. Algoritma aprakstu, kas ietver apakšnodaļas: a)domēns;  b)novērtēšana; c)gājiens; d)algoritms;​
+    3. Testēšanas aprakstu;​
+    4. Saiti uz Git(hub) repozitoriju, kas satur programmas kodu un testēšanas piemērus.
+
+Izvēlētā tēma:
+- 0/1 maisa uzdevums (0/1 Knapsack Problem)
+- Simulated Annealing algoritms
+- Pisinger datu kopa
+- RPG spēlē sakārtot varoņa inventāru tā, lai viņš spētu aiznest pēc iespējas vērtīgākas mantas vienā gājienā pie tirgotāja
+- Viss kods ir iekš Python Jupyter Notebook, kur viss apraksts ir latviešu valodā.
